@@ -16,3 +16,6 @@ I can't tell which language I'm the least competent in- and trust me when I say 
 * [Typora](https://typora.io/)  *Amazing markdown editor*
 * [Sublime Text](https://www.sublimetext.com/)  *Best code editor*
 * [Live chat](https://www.livechat.com/typing-speed-test/#/)  *Typing test*
+
+#### Quotes of the year
+> Your male snow white!
